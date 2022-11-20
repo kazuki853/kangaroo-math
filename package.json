@@ -1,0 +1,25 @@
+{
+  "name": "kangaroo-math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kazuki853/kangaroo-math.git"
+  },
+  "keywords": [],
+  "author": "",
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "katex": "^0.16.3",
+    "node-html-to-image": "^3.2.4",
+    "puppeteer": "^19.2.2"
+  }
+}
